@@ -1,4 +1,4 @@
 name: CleanPing
 version: 1.0.0
 author: oscardoras
-main: org.bungeeplugin.cleanping.CleanPingPlugin
+main: me.oscardoras.cleanping.CleanPingPlugin

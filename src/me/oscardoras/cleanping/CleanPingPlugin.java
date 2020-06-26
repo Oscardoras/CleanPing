@@ -1,4 +1,4 @@
-package org.bungeeplugin.cleanping;
+package me.oscardoras.cleanping;
 
 import net.md_5.bungee.api.ProxyServer;
 import net.md_5.bungee.api.ServerPing;
